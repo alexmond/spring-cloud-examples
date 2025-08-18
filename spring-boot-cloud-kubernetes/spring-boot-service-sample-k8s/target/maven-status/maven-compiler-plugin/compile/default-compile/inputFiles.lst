@@ -1,0 +1,3 @@
+/Users/alex.mondshain/IdeaProjects/spring-cloud-examples/spring-boot-cloud-kubernetes/spring-boot-service-sample-k8s/src/main/java/org/alexmond/sample/cloud/SpringBootServiceSampleApplication.java
+/Users/alex.mondshain/IdeaProjects/spring-cloud-examples/spring-boot-cloud-kubernetes/spring-boot-service-sample-k8s/src/main/java/org/alexmond/sample/config/ConfigSample.java
+/Users/alex.mondshain/IdeaProjects/spring-cloud-examples/spring-boot-cloud-kubernetes/spring-boot-service-sample-k8s/src/main/java/org/alexmond/sample/controller/ConfigPrintRest.java

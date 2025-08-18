@@ -1,0 +1,4 @@
+org/alexmond/sample/cloud/SpringBootServiceSampleApplication.class
+META-INF/spring-configuration-metadata.json
+org/alexmond/sample/cloud/config/ConfigSample.class
+org/alexmond/sample/cloud/controller/ConfigPrintRest.class

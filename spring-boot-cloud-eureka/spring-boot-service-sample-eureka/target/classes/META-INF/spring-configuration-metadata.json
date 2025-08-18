@@ -1,0 +1,33 @@
+{
+  "groups": [
+    {
+      "name": "sample",
+      "type": "org.alexmond.sample.cloud.config.ConfigSample",
+      "sourceType": "org.alexmond.sample.cloud.config.ConfigSample"
+    }
+  ],
+  "properties": [
+    {
+      "name": "sample.config1",
+      "type": "java.lang.String",
+      "sourceType": "org.alexmond.sample.cloud.config.ConfigSample",
+      "defaultValue": "config1"
+    },
+    {
+      "name": "sample.config2",
+      "type": "java.lang.String",
+      "sourceType": "org.alexmond.sample.cloud.config.ConfigSample",
+      "defaultValue": "config2"
+    },
+    {
+      "name": "sample.config3",
+      "type": "java.lang.String",
+      "sourceType": "org.alexmond.sample.cloud.config.ConfigSample",
+      "defaultValue": "config3"
+    }
+  ],
+  "hints": [],
+  "ignored": {
+    "properties": []
+  }
+}

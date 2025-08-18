@@ -1,0 +1,6 @@
+META-INF/spring-configuration-metadata.json
+org/alexmond/sample/cloud/config/Users.class
+org/alexmond/sample/cloud/config/AdminUser.class
+org/alexmond/sample/cloud/HttpExchangeConfiguration.class
+org/alexmond/sample/cloud/SpringBootAdminSampleApplication.class
+org/alexmond/sample/cloud/SecuritySecureConfig.class

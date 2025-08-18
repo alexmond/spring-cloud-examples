@@ -1,0 +1,25 @@
+{
+  "groups": [
+    {
+      "name": "users",
+      "type": "org.alexmond.sample.cloud.config.Users",
+      "sourceType": "org.alexmond.sample.cloud.config.Users"
+    }
+  ],
+  "properties": [
+    {
+      "name": "users.admin-users",
+      "type": "java.util.List<org.alexmond.sample.cloud.config.AdminUser>",
+      "sourceType": "org.alexmond.sample.cloud.config.Users"
+    },
+    {
+      "name": "users.user-details",
+      "type": "java.util.Collection<org.springframework.security.core.userdetails.UserDetails>",
+      "sourceType": "org.alexmond.sample.cloud.config.Users"
+    }
+  ],
+  "hints": [],
+  "ignored": {
+    "properties": []
+  }
+}
